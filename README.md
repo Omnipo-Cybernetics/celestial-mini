@@ -13,14 +13,6 @@ TensorFlow Lite is an optimized framework for deploying lightweight deep learnin
 This guide provides step-by-step instructions for how train a custom TensorFlow Object Detection model, convert it into an optimized format that can be used by TensorFlow Lite, and run it on edge devices like the Raspberry Pi. It also provides Python code for running TensorFlow Lite models to perform detection on images, videos, web streams, or webcam feeds.
 
 ---
-license: mit
-language:
-- en
-library_name: transformers
-tags:
-- cv
-- robotics
----
 # 🌌 Celestial-Mini: Lightweight Object Detection Model (TF)
 
 [![TensorFlow](https://img.shields.io/badge/framework-TensorFlow-orange)](https://www.tensorflow.org/)
